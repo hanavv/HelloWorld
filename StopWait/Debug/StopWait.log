@@ -1,0 +1,29 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Microsoft.Common.CurrentVersion.targets(1879,5): warning : The referenced project '..\netsimlib\netsimlib.vcxproj' does not exist.
+cl : 命令行 warning D9035: “Gm”选项已否决，并将在将来的版本中移除
+  stdafx.cpp
+cl : 命令行 warning D9035: “Gm”选项已否决，并将在将来的版本中移除
+  TCPSender.cpp
+  TCPReceiver.cpp
+  StopWaitRdtSender.cpp
+  StopWaitRdtReceiver.cpp
+  StopWait.cpp
+c:\vs\rdt-win-student\rdt-win-student\stopwait\srreceiver.h(4): warning C4005: “WINDOWS_SIZE”: 宏重定义
+  c:\vs\rdt-win-student\rdt-win-student\stopwait\gbnsender.h(5): note: 参见“WINDOWS_SIZE”的前一个定义
+c:\vs\rdt-win-student\rdt-win-student\stopwait\stopwait.cpp(23): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+  SRSender.cpp
+  SRReceiver.cpp
+  GBNSender.cpp
+  GBNReceiver.cpp
+  正在生成代码...
+GBNReceiver.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+netsimlib.lib(DataStructure.obj) : warning LNK4099: 未找到 PDB“netsimlib.pdb”(使用“netsimlib.lib(DataStructure.obj)”或在“C:\VS\rdt-win-student\rdt-win-student\StopWait\Debug\netsimlib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+netsimlib.lib(FileAppMessageFeeder.obj) : warning LNK4099: 未找到 PDB“netsimlib.pdb”(使用“netsimlib.lib(FileAppMessageFeeder.obj)”或在“C:\VS\rdt-win-student\rdt-win-student\StopWait\Debug\netsimlib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+netsimlib.lib(FileAppMessageWriter.obj) : warning LNK4099: 未找到 PDB“netsimlib.pdb”(使用“netsimlib.lib(FileAppMessageWriter.obj)”或在“C:\VS\rdt-win-student\rdt-win-student\StopWait\Debug\netsimlib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+netsimlib.lib(NetworkServiceConfiguration.obj) : warning LNK4099: 未找到 PDB“netsimlib.pdb”(使用“netsimlib.lib(NetworkServiceConfiguration.obj)”或在“C:\VS\rdt-win-student\rdt-win-student\StopWait\Debug\netsimlib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+netsimlib.lib(NetworkServiceSimulator.obj) : warning LNK4099: 未找到 PDB“netsimlib.pdb”(使用“netsimlib.lib(NetworkServiceSimulator.obj)”或在“C:\VS\rdt-win-student\rdt-win-student\StopWait\Debug\netsimlib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+netsimlib.lib(RandomEvent.obj) : warning LNK4099: 未找到 PDB“netsimlib.pdb”(使用“netsimlib.lib(RandomEvent.obj)”或在“C:\VS\rdt-win-student\rdt-win-student\StopWait\Debug\netsimlib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+netsimlib.lib(RandomEventList.obj) : warning LNK4099: 未找到 PDB“netsimlib.pdb”(使用“netsimlib.lib(RandomEventList.obj)”或在“C:\VS\rdt-win-student\rdt-win-student\StopWait\Debug\netsimlib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+netsimlib.lib(stdafx.obj) : warning LNK4099: 未找到 PDB“netsimlib.pdb”(使用“netsimlib.lib(stdafx.obj)”或在“C:\VS\rdt-win-student\rdt-win-student\StopWait\Debug\netsimlib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+netsimlib.lib(Utils.obj) : warning LNK4099: 未找到 PDB“netsimlib.pdb”(使用“netsimlib.lib(Utils.obj)”或在“C:\VS\rdt-win-student\rdt-win-student\StopWait\Debug\netsimlib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+  StopWait.vcxproj -> C:\VS\rdt-win-student\rdt-win-student\StopWait\Debug\StopWait.exe
